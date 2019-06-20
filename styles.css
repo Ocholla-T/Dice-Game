@@ -1,0 +1,38 @@
+body{
+  background-color: #17223b;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Lobster', cursive;
+  font-size: 8rem;
+  margin-bottom: 2rem;
+}
+
+p {
+  margin: 1.5rem auto;
+  padding: 2.5rem;
+  font-size: 2.5rem;
+}
+
+a {
+  display: block;
+  color: #eeeeee;
+}
+
+h1, p {
+  color: #15cda8;
+}
+
+p, a {
+  font-family: 'Indie Flower', cursive;
+}
+
+.dice {
+  display:inline-block;
+  padding: 2%;
+}
+
+.invisible {
+  visibility: hidden;
+}
